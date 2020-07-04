@@ -11,3 +11,7 @@ In addition, build out pipelines to be used via GitHub Actions and GitLab CI.
 * Production via Kubernetes
 
 It is our hope to be able to capture best practices for each part of the process.
+
+# Local Dev via Docker-compose
+
+WIP
